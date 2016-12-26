@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Play Tic Tac Toe against an AI
+The code generates a database of all possible gameboards and calculates the probability of winning for each board to determine the best possible move for it to make.
